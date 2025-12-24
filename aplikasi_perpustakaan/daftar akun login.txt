@@ -1,6 +1,0 @@
-username: anggota
-password: 123
-
-Username : admin
-Password : admin123
-Role     : admin
